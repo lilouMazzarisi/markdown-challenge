@@ -42,9 +42,10 @@ you need any kind of support. Whether it's emotional or technical. I may not kno
 
 ### A funny story 
 
-I need more time to think on that one... 
+When I was in fifth grade, we used to play catch in the schoolyard. And our base was the wall. We just had to touch it to be safe. So one of my friends tried to catch me, and of course I ran like crazy to that wall. Except I was a little too fast and couldn't stop at the right time. You probably guessed it... I ran straight into that wall and knocked myself out. Afterwards, I had a nice blue bump on my head and it looked like I had a unicorn horn growing. 
 
->``` TO BE CONTINUED... ```
+#### TL;DR
+My friends still call me "Licorne" since that day. 
 
 [<<  previous ](https://github.com/l4ur4nn3/markdown-challenge.git)[|| LISA ||](https://github.com/lilouMazzarisi/markdown-challenge.git)[ next >>](https://github.com/Shikibata/markdown-challenge.git)
  

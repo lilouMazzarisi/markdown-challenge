@@ -7,9 +7,10 @@
 ### *Born in the 90s, I am the archetype of my generation: digital native, curious and in constant need of learning.* 
 
 ***
-| Birthday | Favorite color                          | Favorite food | Pinneapple on pizza?                                              |
-| -------- | --------------------------------------- | ------------- | ----------------------------------------------------------------- |
-| 28/10    | Black <br>*(I know ... is not a colour) | Pizza 🍕       | - [ ] Yes   - [x] No <br> *My family will disown me if I say yes* |
+| Birthday | Favorite color                          | Favorite food | Pinneapple on pizza?                                                     |
+| -------- | --------------------------------------- | ------------- | ------------------------------------------------------------------------ |
+| 28/10    | Black <br>*(I know ... is not a colour) | Pizza 🍕       | &#9744; Yes <br/>&#9745; No <br> *My family will disown me if I say yes* |
+
 
 ***
 

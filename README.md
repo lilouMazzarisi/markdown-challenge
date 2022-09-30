@@ -42,7 +42,6 @@ you need any kind of support. Whether it's emotional or technical. I may not kno
 
 ### A funny story 
 
-I am not fun 😅
 I need more time to think on that one... 
 
 >``` TO BE CONTINUED... ```
